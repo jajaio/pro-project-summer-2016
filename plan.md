@@ -13,10 +13,4 @@ I want to go on and make even more Unity3D games.
 
 
 ## Reference Links
-TO be completed.
-
-*Most Pro projects will have one or more other repos or even an
-organization to contain the actual source code. Link to it here.
-The idea is that the projects created in Pro could live on their
-own without being associated with the SkilStak Pro program.*
-
+[FPS Repo](http://github.com/jajaio/FPS)
