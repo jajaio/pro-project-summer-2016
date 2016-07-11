@@ -2,13 +2,13 @@
 
 ## What did you do last week?
 
-*Your answer.*
+*N/A*
 
 ## What will you do next week?
 
-*Your answer.*
+*Continue working on my game, and organising my repo..*
 
 ## Do you have any blockers?
 
-*Your answer.*
+*No.*
 
