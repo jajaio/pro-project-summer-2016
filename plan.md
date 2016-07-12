@@ -9,7 +9,9 @@ textures later on, but for now I'm using some that others have made.
 
 I want to learn a lot about the Unity3D engine. I had taken a camp
 on it about a year ago, but I'm pretty rusty. After Skilstak Pro, 
-I want to go on and make even more Unity3D games.
+I want to go on and make even more Unity3D games. In this FPS, I
+want to be able to shoot things, and maybe some AI so they can shoot back.
+I want this to just be a small simple game. No plot, just shoot and be shot.
 
 
 ## Reference Links
