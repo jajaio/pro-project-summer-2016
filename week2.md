@@ -2,13 +2,13 @@
 
 ## What did you do last week?
 
-*Your answer.*
+Markdown tutorial, followed my peers, and started getting some physics down on my game.
 
 ## What will you do next week?
 
-*Your answer.*
+Hopefully start the shooting mechanic, and look at my commit issues.
 
 ## Do you have any blockers?
 
-*Your answer.*
+No.
 
