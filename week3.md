@@ -2,13 +2,13 @@
 
 ## What did you do last week?
 
-*Your answer.*
+Got some player movement and a gun in hand.
 
 ## What will you do next week?
 
-*Your answer.*
+Since I got a gun sound effect and animation, I would like to have the gun actually shoot.
 
 ## Do you have any blockers?
 
-*Your answer.*
+No.
 
