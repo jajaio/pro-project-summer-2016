@@ -2,13 +2,15 @@
 
 ## What did you do last week?
 
-*Your answer.*
+Added a gun animation, and sound effects.
 
 ## What will you do next week?
 
-*Your answer.*
+This week I got it so the gun can shoot, and consume ammo.
+Next week, I would like it to not go into the negative numbers when I shoot,
+and hopefully some AI.
 
 ## Do you have any blockers?
 
-*Your answer.*
+No.
 
