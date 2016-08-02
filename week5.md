@@ -2,13 +2,12 @@
 
 ## What did you do last week?
 
-*Your answer.*
+Got the gun to shoot, and ammo goes down when shot.
 
 ## What will you do next week?
 
-*Your answer.*
+Fix some bugs, continue to re-texture, and get my door to work(hopefully).
 
 ## Do you have any blockers?
 
-*Your answer.*
-
+No.
