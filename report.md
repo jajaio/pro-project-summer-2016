@@ -1,19 +1,20 @@
 # SkilStak Pro Final Report - Summer 2016
 
-*Replace this sample with your own report*
+For this semester of SkilStak Pro, I made a simple FPS(First Person Shooter) in Unity3D.
+You can move around, pick up ammo, and shoot your gun at targets.
+It's very simple, and I'd like to continue working on it sometime, if not next semester.
 
-*Write an overall summary of the project in a few sentances here, your
-impressions, your accomplishments. Keep in mind this is public and
-will be read by your peers, parents, and others.*
 
 ## Lessons Learned
 
-*Replace this with a description of what you would do differently,
-things you may have failed at, but learned from. The best entrepreneurs
-and innovators fail more than others because they try more things.
-What did you learn from your successes and failures.*
+Next time, I'd like to plan out what I want before I start writing code.
+I went in with the mindset of "I'll just plan it out as I go!" and it resulted with
+nothing really original about the game. Yes, the overall game isn't finished,
+but it would've made the game easier to make if I knew what I wanted it to be in the end.
+Overall, this has been a great experience for me to get the hang of Unity.
 
 ## Next Steps
 
-*Create a summary of what you would like to do next, if anything, with
-this project. Often a Pro project can be ongoing between semesters.*
+Well, My friend asked if I wanted to work with him on another Unity project, so I'll probably pursue that.
+If I don't work on that, then I'll continue this game, and make more to do. Now that I'm familiar with Unity,
+I can practically do whatever I want.
