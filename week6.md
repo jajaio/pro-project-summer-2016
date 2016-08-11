@@ -2,13 +2,13 @@
 
 ## What did you do last week?
 
-*Your answer.*
+Wrapped up what I got done of my game.
 
 ## What will you do next week?
 
-*Your answer.*
+Final peer review.
 
 ## Do you have any blockers?
 
-*Your answer.*
+No.
 
