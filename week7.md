@@ -2,13 +2,13 @@
 
 ## What did you do last week?
 
-*Your answer.*
+Wrap up my project, and wrote my final report.
 
 ## What will you do next week?
 
-*Your answer.*
+Nothing. This is the last class.
 
 ## Do you have any blockers?
 
-*Your answer.*
+No.
 
